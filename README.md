@@ -2,5 +2,5 @@
 The project used:
 HTML
 CSS
-Javaыcript
+Javascript
 
